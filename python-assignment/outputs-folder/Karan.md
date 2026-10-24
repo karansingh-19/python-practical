@@ -39,12 +39,12 @@ On some systems you may need to use `python3` instead of `python`.
 
 ## Practical 01 - Roots of a Quadratic Equation
 
-<img width="1457" height="195" alt="output1page1.png" src="./images/output1.png" alt="Output 1 " />
+<img width="1457" height="195" alt="output1" src="./output/output1.png"  />
 ## Practical 02 - output
 
 
 ### Practical 02 - Prime Numbers
-<img width="1457" height="195" alt="output2.png" src="./images/output2.png" />
+<img width="1457" height="195" alt="output2.png" src="./output/output2.png" />
 
 ---
 
