@@ -57,7 +57,7 @@ On some systems you may need to use `python3` instead of `python`.
 
 ---
 ## Practical 05 - String Operations
-<img width="1616" height="442" alt="output5.png" src="./output/output5.pngg" />
+<img width="1616" height="442" alt="output5.png" src="./output/output5.png" />
 
 ---
 ## Practical 06 - Swap the First n Characters of Two Strings
